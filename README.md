@@ -6,7 +6,7 @@
 - 🤝 I’m looking for help with **Full stack developement**
 
 - 📫 How to reach me **mestevenj@gmail.com**
-
+<h2>Follow my linkedin profile https://www.linkedin.com/in/steven-joseph-403611268/ <h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
